@@ -1,0 +1,6 @@
+{
+	"url": "http://localhost:8086",
+	"org": "my-org",
+	"token": "my-token",
+	"timeout": "6000"
+}
